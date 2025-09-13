@@ -676,7 +676,7 @@ const AboutWindow = ({ isOpen, onClose, zIndex, onBringToFront }: SimpleWindowPr
           </p>
 
           <p style={{ marginBottom: '16px', fontFamily: 'NewYork, Times, serif', fontSize: '13px' }}>
-            I WAS HEAVILY INSPIRED FROM SONGS RELEASED ON REISSUE LABELS SUCH AS YOURSELF, NUMERO 
+            I WAS HEAVILY INSPIRED FROM SONGS RELEASED ON REISSUE LABELS LIKE NUMERO 
             GROUP AND THE LIKES OF. 80S BOOGIE WAS A LOT LIKE 60&rsquo;S SOUL IN THAT WAY, 
             THERE WAS JUST SO MUCH OF IT CREATED AND NOT ALL OF IT WAS SUCCESSFUL, SO 
             YOU HAVE THESE GREAT TRACKS THAT GOT LOST ALONG THE WAY.
